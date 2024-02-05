@@ -29,15 +29,15 @@ module.exports = {
     social: [
       {
         name: 'Github',
-        url: 'https://github.com/gatsbyjs'
+        url: 'https://github.com/kesaviwebsolutions/blockly-global'
       },
       {
         name: 'Twitter',
-        url: 'https://twitter.com/gatsbyjs'
+        url: 'https://twitter.com/'
       },
       {
         name: 'Instagram',
-        url: 'https://github.com/gatsbyjs'
+        url: 'https://github.com/'
       }
     ],
 
